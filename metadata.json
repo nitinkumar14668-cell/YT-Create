@@ -1,0 +1,6 @@
+{
+  "name": "VeoCreate",
+  "description": "A YouTube Create-style web video editor powered by Gemini Veo 3 for cutting-edge AI video generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
